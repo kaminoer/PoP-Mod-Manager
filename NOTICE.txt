@@ -1,0 +1,27 @@
+PoP Mod Manager — third-party software notices
+================================================
+
+This application uses the Qt 6 framework (https://www.qt.io/) under the terms of
+the GNU Lesser General Public License, version 3 (LGPL-3.0).
+
+  * Qt is © The Qt Company Ltd and other contributors.
+  * The Qt libraries are distributed as separate, dynamically-linked DLLs that
+    you may replace with your own build of the same Qt version.
+  * Corresponding Qt source code (for the exact version shipped) is available at
+    https://download.qt.io/  (and from The Qt Company on request).
+  * No modifications were made to the Qt libraries.
+
+The PoP Mod Manager's own code is NOT covered by the above and remains the author's property.
+
+Copyright kaminoer/Simulatte 2026
+All rights reserved.
+
+This software is not licensed for distribution, modification, or commercial use without explicit written permission from the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
